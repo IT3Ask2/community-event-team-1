@@ -7,3 +7,25 @@ body {
  background-color: var(--brand-beige);
  font-family: "Roboto Condensed", sans-serif;
 }
+#invitation {
+  font-size: 24px;
+  text-align: center;
+  margin: 20px;
+  display: flex;
+  width: 58%;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#header {
+  text-align: center;
+  font-size: 48px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
